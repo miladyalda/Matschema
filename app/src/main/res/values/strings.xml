@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MatSchema</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exercise">exercise</string>
+    <string name="food">food</string>
+    <string name="preference_file_key">com.matschema.my.file.key</string>
+    <string name="search">search</string>
+    <string name="action_search">action_search</string>
+    <string name="search_currency">search_curr</string>
+    <string name="discuss_about_header">choose Categori</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
